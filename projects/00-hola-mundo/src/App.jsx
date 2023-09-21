@@ -10,7 +10,7 @@ export function App(){
             </header>
             <aside>
                 <button>
-                    Seguir
+                    Seguir ahora
                 </button>
             </aside>
         </article>
